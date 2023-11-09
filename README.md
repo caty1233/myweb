@@ -1,2 +1,2 @@
-# here is my tetris duplicated code
+# here is my tetris code
 web tetris game
